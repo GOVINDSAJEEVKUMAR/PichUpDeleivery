@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+}
+
+.ant-picker-dropdown {
+    z-index: 1500 !important; /* higher than Material UI Dialog */
+}
